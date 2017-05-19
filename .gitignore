@@ -1,0 +1,6 @@
+.gclient
+.gclient_entries
+depot_tools/
+v8/
+natives_blob.bin
+snapshot_blob.bin
